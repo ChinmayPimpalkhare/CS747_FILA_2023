@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This repository contains the implementations and analyses from course assignments at IIT Bombay for the course CS&47.
+This repository contains the implementations and analyses from course assignments at IIT Bombay for the course CS747.
 
 ### 1. Billiards with Monte-Carlo Tree Search (MCTS)
 
