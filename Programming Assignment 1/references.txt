@@ -1,0 +1,29 @@
+This is the file containing all the references used by Chinmay Pimpalkhare (200100115) 
+for Assignment 1 of the Autumn 2023 offering of CS747 
+
+1) Was not sure if np.log returns base e or base 10
+[Link] https://www.geeksforgeeks.org/numpy-log-python/
+
+2) Add a Constant to all Elements of Array – NumPy
+[Link] https://pythonexamples.org/numpy-array-add-constant/
+
+3) How to Initialize a NumPy Array with Zeros and Ones
+[Link] https://blog.finxter.com/numpy-initialize-numpy-array-zeros-ones/
+
+4) Had forgotten the theory of the Netwon Raphson method
+[Link] https://en.wikipedia.org/wiki/Newton%27s_method
+
+5) Recursion in Python 
+[Link] https://www.programiz.com/python-programming/recursion
+
+6) Binary Search Pseudocode
+[Link] https://www.tutorialspoint.com/data_structures_algorithms/binary_search_algorithm.htm
+
+7) Bisection Method Pseudocode
+[Link] https://www.codesansar.com/numerical-methods/bisection-method-pseudocode.htm
+
+8) Plotting in Matplotlib
+[Link] https://howtothink.readthedocs.io/en/latest/PvL_H.html
+
+9) Figsize in Matplotlib plots
+[Link] https://www.geeksforgeeks.org/how-to-change-the-size-of-figures-drawn-with-matplotlib/
